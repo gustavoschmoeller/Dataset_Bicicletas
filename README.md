@@ -5,7 +5,7 @@ Utilizando a linguagem Python e bibliotecas como Pandas, NumPy, Matplotlib e Sea
 
 Os resultados desta análise podem ser utilizados para otimizar a distribuição de bicicletas, melhorar a infraestrutura das estações e aprimorar a experiência dos usuários.
 
-## Processo
+# Processo
 Para criar a análise de dados, a empresa disponibilizou um arquivo em formato CSV contendo informações detalhadas sobre o aluguel de bicicletas.
 
 Inicialmente, carreguei o dataset utilizando a biblioteca pandas, explorando suas colunas e identificando possíveis inconsistências nos dados. Em seguida, realizei a limpeza e transformação das variáveis, incluindo conversão de datas, tratamento de valores ausentes e padronização de tipos de dados.
@@ -14,7 +14,9 @@ Embora o Python já seja eficiente para análise de dados, utilizei bibliotecas 
 
 # Conclusão
 
-Pergunta 1: Existem padrões sazonais no aluguel de bicicletas?
+Pergunta 1: Quais são as Top 5 estações com maior número de aluguel de bikes?
+![image](https://github.com/user-attachments/assets/721720bd-613a-449b-bf6b-9c5efa1559ca)
+
 
 A análise revelou que a demanda de bicicletas é afetada por feriados e condições climáticas. Dias de semana apresentam um padrão distinto em relação aos finais de semana.
 
