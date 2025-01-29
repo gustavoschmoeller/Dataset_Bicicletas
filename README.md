@@ -29,7 +29,7 @@ Ampliar o número de bikes e vagas de estacionamento nas estações mais movimen
 Priorizar a inspeção e manutenção frequente de bikes e infraestrutura nessas estações, devido ao alto desgaste causado pelo uso intensivo.
 
 **3. Otimização de Distribuição:**
-Analisar padrões horários/diários de uso para realocar bikes estrategicamente, garantindo disponibilidade em horários de pico.
+Analisar padrões horários/diários de uso para realocar bikes estrategicamente, garantindo disponibilidade em horários e dias de pico.
 
 > Pergunta 2: Quais são as Top 5 rotas, com base na estação inicial e final, e a média de duração de cada aluguel?
 
