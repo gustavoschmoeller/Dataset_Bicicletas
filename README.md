@@ -16,8 +16,7 @@ Embora o Python já seja eficiente para análise de dados, utilizei bibliotecas 
 
 > Pergunta 1: Quais são as Top 5 estações com maior número de aluguel de bikes?
 
-![image](https://github.com/user-attachments/assets/f0e83ec6-fc59-42e3-8409-32549473eb48)
-
+![image](https://github.com/user-attachments/assets/dcf2916a-b7bf-44e9-b8a9-db77d2541ee6)
 
 Com base na análise dos dados representados no gráfico, identificamos as **Top 5 estações com maior número de aluguéis de bicicletas**. A estação **1** se destaca significativamente como a mais utilizada, com **6.311 aluguéis**, seguida pelas estações **27** com **6.241** aluguéis, **271** com **5.265 aluguéis**, **64** com **4.834 aluguéis**, e **41**, que apresenta **4.633 aluguéis**.
 
