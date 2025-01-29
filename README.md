@@ -1,18 +1,18 @@
-# ✅ Introdução
+## Introdução
 Este projeto tem como objetivo analisar dados de aluguel de bicicletas, identificando padrões de uso e respondendo a perguntas-chave sobre a demanda e o comportamento dos usuários. A partir de um conjunto de dados estruturado, aplicamos técnicas de processamento, limpeza e visualização para extrair insights relevantes.
 
 Utilizando a linguagem Python e bibliotecas como Pandas, NumPy, Matplotlib e Seaborn, exploramos as tendências no aluguel de bikes, identificando as estações mais populares, os perfis de usuários e os horários de maior movimentação.
 
 Os resultados desta análise podem ser utilizados para otimizar a distribuição de bicicletas, melhorar a infraestrutura das estações e aprimorar a experiência dos usuários.
 
-# ✅ Processo
+## Processo
 Para criar a análise de dados, a empresa disponibilizou um arquivo em formato CSV contendo informações detalhadas sobre o aluguel de bicicletas.
 
 Inicialmente, carreguei o dataset utilizando a biblioteca pandas, explorando suas colunas e identificando possíveis inconsistências nos dados. Em seguida, realizei a limpeza e transformação das variáveis, incluindo conversão de datas, tratamento de valores ausentes e padronização de tipos de dados.
 
 Embora o Python já seja eficiente para análise de dados, utilizei bibliotecas como matplotlib e seaborn para a exploração visual dos dados, permitindo uma melhor compreensão dos padrões e tendências do aluguel de bicicletas. Essa abordagem possibilitou insights mais detalhados sobre o comportamento dos usuários e ajudou na formulação das respostas às perguntas do projeto.
 
-# ✅ Conclusão
+## Conclusão
 
 Pergunta 1: Existem padrões sazonais no aluguel de bicicletas?
 
