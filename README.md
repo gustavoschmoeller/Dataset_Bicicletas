@@ -22,17 +22,14 @@ Com base na análise dos dados representados no gráfico, identificamos as **Top
 
 As seguintes recomendações podem ser implementadas para otimizar o serviço e melhorar a experiência dos usuários:
 
-**Aumento da Capacidade das Estações:**
+**1. Aumento da Capacidade das Estações:**
+Ampliar o número de bikes e vagas de estacionamento nas estações mais movimentadas para evitar escassez durante picos de demanda.
 
-Ampliar o número de bikes e vagas de estacionamento nas estações mais movimentadas (ex.: 6.311 e 6.241 aluguéis) para evitar escassez durante picos de demanda.
-
-**Manutenção Preventiva:**
-
+**2. Manutenção Preventiva:**
 Priorizar a inspeção e manutenção frequente de bikes e infraestrutura nessas estações, devido ao alto desgaste causado pelo uso intensivo.
 
-**Otimização de Distribuição:**
-
-Analisar padrões horários/diários de uso para realocar bikes estrategicamente, garantindo disponibilidade em horários de pico (ex.: manhãs e fins de tarde).
+**3. Otimização de Distribuição:**
+Analisar padrões horários/diários de uso para realocar bikes estrategicamente, garantindo disponibilidade em horários de pico.
 
 > Pergunta 2: Quais são as Top 5 rotas, com base na estação inicial e final, e a média de duração de cada aluguel?
 
