@@ -22,13 +22,17 @@ Com base na análise dos dados representados no gráfico, identificamos as **Top
 
 Este resultado revela uma forte concentração de aluguéis nas estações 1 e 27, destacando-as como pontos centrais e cruciais dentro do sistema de compartilhamento de bicicletas.
 
-> Pergunta 2: Qual é o horário de maior movimento?
+> Pergunta 2: Quais são as Top 5 rotas, com base na estação inicial e final, e a média de duração de cada aluguel?
 
-Os dados indicam que há dois picos de demanda: pela manhã (horário de deslocamento para o trabalho) e ao final da tarde.
+Com base na análise das rotas de aluguéis de bicicletas, identificamos as Top 5 rotas mais frequentes, considerando a estação inicial e final, além da média de duração de cada aluguel. A tabela abaixo apresenta as rotas mais recorrentes, com suas respectivas quantidades de aluguéis (Qtd) e a média de duração de cada aluguel:
 
-Pergunta 3: Como os feriados afetam o aluguel de bicicletas?
+![image](https://github.com/user-attachments/assets/c5162ffb-2acb-42ad-b368-50d34437c8de)
 
-A análise dos feriados mostrou que há um aumento no aluguel de bicicletas em feriados prolongados e um declínio em feriados isolados.
+Essas rotas representam as mais populares dentro do sistema de compartilhamento de bicicletas, com destaque para a **rota 33 - 33**, que possui o maior número de aluguéis e a maior média de duração, indicando um possível padrão de uso mais prolongado nessa rota. A análise dessas rotas permite um melhor entendimento dos hábitos dos usuários e pode auxiliar na otimização do sistema, como a redistribuição de bicicletas e melhorias nas estações mais utilizadas.
+
+
+
+
 
 ✅ Fontes
 
