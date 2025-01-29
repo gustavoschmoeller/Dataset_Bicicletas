@@ -1,5 +1,5 @@
 ## Introdução
-Este projeto tem como objetivo analisar dados de aluguel de bicicletas, identificando padrões de uso e respondendo a perguntas-chave sobre a demanda e o comportamento dos usuários. A partir de um conjunto de dados estruturado, aplicamos técnicas de processamento, limpeza e visualização para extrair insights relevantes.
+Este projeto tem como objetivo realizar a análise de um conjunto de dados contendo informações sobre o aluguel de bicicletas, processando e limpando os dados para extração de insights. Durante o desenvolvimento, além das perguntas iniciais, foram adicionadas duas perguntas extras que serão respondidas ao longo desta documentação, aprofundando ainda mais a compreensão do comportamento dos usuários.
 
 Utilizando a linguagem Python e bibliotecas como Pandas, NumPy, Matplotlib e Seaborn, exploramos as tendências no aluguel de bikes, identificando as estações mais populares, os perfis de usuários e os horários de maior movimentação.
 
