@@ -30,8 +30,14 @@ Com base na análise das rotas de aluguéis de bicicletas, identificamos as Top 
 
 Essas rotas representam as mais populares dentro do sistema de compartilhamento de bicicletas, com destaque para a **rota 33 - 33**, que possui o maior número de aluguéis e a maior média de duração, indicando um possível padrão de uso mais prolongado nessa rota. A análise dessas rotas permite um melhor entendimento dos hábitos dos usuários e pode auxiliar na otimização do sistema, como a redistribuição de bicicletas e melhorias nas estações mais utilizadas.
 
+> Pergunta 3: Quem aluga mais bikes, homens ou mulheres? Qual o tempo médio de aluguel de bikes?
+![image](https://github.com/user-attachments/assets/ac838f75-98be-4dfb-ba51-fc7d833728f8)
 
+Com base na análise dos dados apresentados, observa-se que, em relação ao número de aluguéis, os **homens** são os que mais utilizam o sistema de compartilhamento de bicicletas, com um total de **511.103 aluguéis**, enquanto as **mulheres** realizaram **175.224 aluguéis**. Isso indica uma clara **predominância no uso do sistema por homens.**
 
+No entanto, quando se analisa o tempo médio de aluguel, as **mulheres** têm uma duração média ligeiramente superior, com **00:15:53**, enquanto os **homens** apresentam uma média de **00:15:30.** Essa diferença, embora pequena, sugere que, apesar de um número maior de aluguéis por parte dos homens, as **mulheres tendem a utilizar as bicicletas por um tempo médio levemente mais longo.**
+
+Essas informações podem ser úteis para entender os padrões de uso por gênero e auxiliar na otimização do sistema, como no ajuste das bicicletas e estações de acordo com o comportamento dos usuários.
 
 
 ✅ Fontes
