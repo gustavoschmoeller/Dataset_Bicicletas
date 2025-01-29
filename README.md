@@ -1,38 +1,16 @@
-# ✅ Projeto de Análise de Dados com Python
+# ✅ Introdução
+Este projeto tem como objetivo analisar dados de aluguel de bicicletas, identificando padrões de uso e respondendo a perguntas-chave sobre a demanda e o comportamento dos usuários. A partir de um conjunto de dados estruturado, aplicamos técnicas de processamento, limpeza e visualização para extrair insights relevantes.
 
-Este projeto tem como objetivo realizar a análise de um conjunto de dados contendo informações sobre aluguel de bicicletas, processando e limpando os dados para extração de insights.
+Utilizando a linguagem Python e bibliotecas como Pandas, NumPy, Matplotlib e Seaborn, exploramos as tendências no aluguel de bikes, identificando as estações mais populares, os perfis de usuários e os horários de maior movimentação.
+
+Os resultados desta análise podem ser utilizados para otimizar a distribuição de bicicletas, melhorar a infraestrutura das estações e aprimorar a experiência dos usuários.
 
 # ✅ Processo
+Para criar a análise de dados, a empresa disponibilizou um arquivo em formato CSV contendo informações detalhadas sobre o aluguel de bicicletas.
 
-1. Importação de Bibliotecas
+Inicialmente, carreguei o dataset utilizando a biblioteca pandas, explorando suas colunas e identificando possíveis inconsistências nos dados. Em seguida, realizei a limpeza e transformação das variáveis, incluindo conversão de datas, tratamento de valores ausentes e padronização de tipos de dados.
 
-Foram utilizadas bibliotecas essenciais para análise e visualização de dados, tais como:
-
-pandas
-
-numpy
-
-matplotlib.pyplot
-
-seaborn
-
-datetime
-
-2. Carregamento dos Dados
-
-Os dados foram extraídos de um arquivo CSV hospedado no GitHub (dataset.csv) e carregados em um DataFrame do Pandas.
-
-3. Limpeza e Transformação dos Dados
-
-Conversão das colunas de datas (Data_Aluguel, Data_Chegada) e horas (Hora_Aluguel, Hora_Chegada) para os formatos adequados.
-
-Identificação e tratamento de valores NaN.
-
-Integração com um segundo dataset (feriados_nacionais.csv) para cruzamento de informações.
-
-4. Exploração e Visualização
-
-Utilização de visualizações estatísticas e gráficos para entender padrões nos dados.
+Embora o Python já seja eficiente para análise de dados, utilizei bibliotecas como matplotlib e seaborn para a exploração visual dos dados, permitindo uma melhor compreensão dos padrões e tendências do aluguel de bicicletas. Essa abordagem possibilitou insights mais detalhados sobre o comportamento dos usuários e ajudou na formulação das respostas às perguntas do projeto.
 
 # ✅ Conclusão
 
