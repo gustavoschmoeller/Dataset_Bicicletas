@@ -23,7 +23,7 @@ Com base na análise dos dados representados no gráfico, identificamos as **Top
 As seguintes recomendações podem ser implementadas para otimizar o serviço e melhorar a experiência dos usuários:
 
 **1. Aumento da Capacidade das Estações:**
-Ampliar o número de bikes e vagas de estacionamento nas estações mais movimentadas para evitar escassez durante picos de demanda.
+Ampliar o número de bikes e vagas de estacionamento nas estações mais movimentadas (1 e 27) para evitar escassez durante picos de demanda.
 
 **2. Manutenção Preventiva:**
 Priorizar a inspeção e manutenção frequente de bikes e infraestrutura nessas estações, devido ao alto desgaste causado pelo uso intensivo.
