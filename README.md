@@ -18,7 +18,11 @@ Embora o Python já seja eficiente para análise de dados, utilizei bibliotecas 
 
 ![image](https://github.com/user-attachments/assets/dcf2916a-b7bf-44e9-b8a9-db77d2541ee6)
 
-Com base na análise dos dados representados no gráfico, identificamos as **Top 5 estações com maior número de aluguéis de bicicletas**. A estação **1** se destaca significativamente como a mais utilizada, com **6.311 aluguéis**, seguida pelas estações **27** com **6.241** aluguéis, **271** com **5.265 aluguéis**, **64** com **4.834 aluguéis**, e **41**, que apresenta **4.633 aluguéis**.
+• **Estação 1** lidera com **6.311 aluguéis**, seguida de perto pela **Estação 27 (6.241)**, indicando que ambas são **pontos críticos de mobilidade**, possivelmente localizadas em áreas de alta circulação (ex.: centros comerciais, estações de transporte público).
+
+• **Estação 271** destaca-se como a **terceira mais movimentada**, sugerindo relevância em uma região específica (ex.: parques, zonas residenciais densas).
+
+• Apesar de a **rota 33 - 33** ser a mais frequente (da Pergunta 2), a Estação 33 não está entre as top 5 individualmente, o que pode indicar que seu uso está concentrado em trajetos de ida e volta (uso recreativo), sem alta demanda isolada.
 
 As seguintes recomendações podem ser implementadas para otimizar o serviço e melhorar a experiência dos usuários:
 
