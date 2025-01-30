@@ -92,7 +92,9 @@ Recomendações para Otimização:
 ![image](https://github.com/user-attachments/assets/457113b0-bfc8-47cb-9e26-72d4b7639c5b)
 
 • **Estação 271 (Aluguel):** Aparece no Top 5 de aluguéis (5.265), mas não está listada nas devoluções.
+
 • **Estação 266 (Devolução):** Líder em devoluções (6.513), mas não está presente nos aluguéis.
+
 • **Estação 41 (Aluguel):** Não aparece no top 5 de devoluções.
 
 A ausência de estações como 271 e 41 nas devoluções sugere que bicicletas alugadas nessas estações são devolvidas em outras não listadas no Top 5.  
