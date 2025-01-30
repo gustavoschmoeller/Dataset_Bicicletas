@@ -25,7 +25,6 @@ Embora o Python já seja eficiente para análise de dados, utilizei bibliotecas 
 • Apesar de a **rota 33 - 33** ser a mais frequente (da Pergunta 2), a Estação 33 não está entre as top 5 individualmente, o que pode indicar que seu uso está concentrado em trajetos de ida e volta (uso recreativo), sem alta demanda isolada.
 
 As seguintes recomendações podem ser implementadas para otimizar o serviço e melhorar a experiência dos usuários:
-
 **1. Aumento da Capacidade das Estações:**
 Ampliar o número de bikes e vagas de estacionamento nas estações mais movimentadas (1 e 27) para evitar escassez durante picos de demanda.
 
