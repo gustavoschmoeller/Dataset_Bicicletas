@@ -37,15 +37,19 @@ A tabela abaixo apresenta as 5 rotas mais frequentes, ordenadas pela quantidade 
 
 ![image](https://github.com/user-attachments/assets/c5162ffb-2acb-42ad-b368-50d34437c8de)
 
-• Rota 33 - 33: Destaca-se pelo maior número de aluguéis (376) e maior duração média (30 minutos e 49 segundos), indicando uso recreativo ou de passeio, já que a estação inicial e final são a mesma.
-• Rotas 449 - 449 e 208 - 206: Também apresentam alta demanda, com durações intermediárias (17 e 9 minutos), possivelmente para deslocamentos cotidianos.
-• Rotas 18 - 1 e 211 - 217: Possuem médias de duração curtas (5 e 3 minutos), sugerindo uso para trajetos rápidos, como conexões com transporte público ou deslocamentos urgentes.
+• **Rota 33 - 33:** Destaca-se pelo maior número de aluguéis (376) e maior duração média (30 minutos e 49 segundos), indicando uso recreativo ou de passeio, já que a estação inicial e final são a mesma.
+
+• **Rotas 449 - 449 e 208 - 206:** Também apresentam alta demanda, com durações intermediárias (17 e 9 minutos), possivelmente para deslocamentos cotidianos.
+
+• **Rotas 18 - 1 e 211 - 217:** Possuem médias de duração curtas (5 e 3 minutos), sugerindo uso para trajetos rápidos, como conexões com transporte público ou deslocamentos urgentes.
 
 Recomendações para Otimização:
 
-• Redistribuição de bicicletas: Priorizar estações como 33 e 449, que apresentam alta demanda, para evitar falta de bicicletas ou vagas.
-• Expansão de capacidade: Aumentar o número de bicicletas e vagas nas estações 33, 18 e 211, que são pontos críticos de uso.
-• Incentivos para rotas menos utilizadas: Criar promoções ou descontos para rotas com menor demanda, equilibrando a distribuição de usuários.
+**1. Redistribuição de bicicletas:** Priorizar estações como 33 e 449, que apresentam alta demanda, para evitar falta de bicicletas ou vagas.
+
+**2. Expansão de capacidade:** Aumentar o número de bicicletas e vagas nas estações 33, 18 e 211, que são pontos críticos de uso.
+
+**3. Incentivos** para rotas menos utilizadas: Criar promoções ou descontos para rotas com menor demanda, equilibrando a distribuição de usuários.
 
 > Pergunta 3: Quem aluga mais bikes, homens ou mulheres? Qual o tempo médio de aluguel de bikes?
 
