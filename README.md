@@ -24,7 +24,7 @@ Embora o Python já seja eficiente para análise de dados, utilizei bibliotecas 
 
 • Apesar de a **rota 33 - 33** ser a mais frequente (da Pergunta 2), a Estação 33 não está entre as top 5 individualmente, o que pode indicar que seu uso está concentrado em trajetos de ida e volta (uso recreativo), sem alta demanda isolada.
 
-As seguintes recomendações podem ser implementadas para otimizar o serviço e melhorar a experiência dos usuários:
+Recomendações para Otimização:
 
 **1. Aumento da Capacidade das Estações:**
 Ampliar o número de bikes e vagas de estacionamento nas estações mais movimentadas (1 e 27) para evitar escassez durante picos de demanda.
@@ -63,7 +63,12 @@ Com base na análise dos dados apresentados, observa-se que, em relação ao nú
 
 No entanto, quando se analisa o tempo médio de aluguel, as **mulheres** têm uma duração média ligeiramente superior, com **00:15:53**, enquanto os **homens** apresentam uma média de **00:15:30.** Essa diferença, embora pequena, sugere que, apesar de um número maior de aluguéis por parte dos homens, as **mulheres tendem a utilizar as bicicletas por um tempo médio levemente mais longo.**
 
-Essas informações podem ser úteis para entender os padrões de uso por gênero e auxiliar na otimização do sistema, como no ajuste das bicicletas e estações de acordo com o comportamento dos usuários.
+Recomendações para Otimização:
+**1. Incentivo ao Uso por Mulheres:** Criar campanhas promocionais voltadas ao público feminino, destacando segurança, conveniência e benefícios do uso das bicicletas.
+
+**2. Ajuste na Distribuição das Bicicletas e Estações:** Como os homens utilizam mais o sistema, pode ser necessário um maior volume de bicicletas disponíveis nas estações com maior demanda masculina.
+
+**3. Melhoria na Experiência do Usuário:** Disponibilizar bicicletas mais confortáveis para atender a diferentes perfis de usuários.
 
 > Pergunta 4: Qual faixa etária aluga mais bikes? Qual o tempo médio de aluguel de bikes?
 
