@@ -75,15 +75,15 @@ Recomendações para Otimização:
 
 ![image](https://github.com/user-attachments/assets/43cd5467-ee7c-464c-9de3-ee68c17582a1)
 
-Com base na análise dos dados apresentados, observa-se que, em relação ao número de aluguéis, a faixa etária que mais utiliza o sistema é a de *30 a 39 anos*, totalizando *264.064 aluguéis*. As faixas etárias de *20 a 29 anos* e *40 a 49* anos também apresentam números significativos, com *227.17* e *110.87 aluguéis*, respectivamente. As demais faixas etárias apresentam uma participação menor no uso do sistema.
+Com base na análise dos dados apresentados, observa-se que, em relação ao número de aluguéis, a faixa etária que mais utiliza o sistema é a de **30 a 39 anos**, totalizando **264.064 aluguéis**. As faixas etárias de **20 a 29 anos** e **40 a 49** anos também apresentam números significativos, com **227.17** e **110.87 aluguéis**, respectivamente. As demais faixas etárias apresentam uma participação menor no uso do sistema.
 
-No entanto, quando se analisa o *tempo médio de aluguel*, a faixa etária de *50 a 59 anos* apresenta a maior duração média, com *00:16:58*, seguida pelas faixas de *30 a 39 anos (00:16:15)* e *40 a 49 anos (00:15:48)*. Esses dados indicam que, apesar de um maior número de aluguéis na faixa de 30 a 39 anos, os usuários mais velhos tendem a utilizar as bicicletas por períodos mais longos.
+No entanto, quando se analisa o **tempo médio de aluguel**, a faixa etária de **50 a 59 anos** apresenta a maior duração média, com **00:16:58**, seguida pelas faixas de **30 a 39 anos (00:16:15)** e **40 a 49 anos (00:15:48)**. Esses dados indicam que, apesar de um maior número de aluguéis na faixa de 30 a 39 anos, os usuários mais velhos tendem a utilizar as bicicletas por períodos mais longos.
 
 Recomendações para Otimização:
 
-*1. Fortalecer a faixa etária de 30-39 anos:* Criar campanhas de fidelização (ex.: planos mensais com desconto).
-*2. Atrair a faixa 20-29 anos:* Criar parcerias com universidades ou eventos juvenis. Descontos para estudantes ou primeiros usuários.
-*3. Incentivar a faixa 70+ anos:* Oferecer bicicletas adaptadas (ex.: modelos estáveis, assentos confortáveis).
+**1. Fortalecer a faixa etária de 30-39 anos:** Criar campanhas de fidelização (ex.: planos mensais com desconto).
+**2. Atrair a faixa 20-29 anos:** Criar parcerias com universidades ou eventos juvenis. Descontos para estudantes ou primeiros usuários.
+**3. Incentivar a faixa 70+ anos:** Oferecer bicicletas adaptadas (ex.: modelos estáveis, assentos confortáveis).
 
 
 
