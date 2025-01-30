@@ -64,6 +64,7 @@ Com base na análise dos dados apresentados, observa-se que, em relação ao nú
 No entanto, quando se analisa o tempo médio de aluguel, as **mulheres** têm uma duração média ligeiramente superior, com **00:15:53**, enquanto os **homens** apresentam uma média de **00:15:30.** Essa diferença, embora pequena, sugere que, apesar de um número maior de aluguéis por parte dos homens, as **mulheres tendem a utilizar as bicicletas por um tempo médio levemente mais longo.**
 
 Recomendações para Otimização:
+
 **1. Incentivo ao Uso por Mulheres:** Criar campanhas promocionais voltadas ao público feminino, destacando segurança, conveniência e benefícios do uso das bicicletas.
 
 **2. Ajuste na Distribuição das Bicicletas e Estações:** Como os homens utilizam mais o sistema, pode ser necessário um maior volume de bicicletas disponíveis nas estações com maior demanda masculina.
