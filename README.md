@@ -97,7 +97,7 @@ Recomendações para Otimização:
 
 A ausência de estações como 271 e 41 nas devoluções sugere que bicicletas alugadas nessas estações são devolvidas em outras não listadas no Top 5.  
 
-Recomendações  
+Recomendações para Otimização: 
 
 1. **Análise de Fluxo**: Mapear rotas frequentes entre estações de aluguel sem correspondência direta nas devoluções (ex.: Estação 271 → Estação 266). 
 
