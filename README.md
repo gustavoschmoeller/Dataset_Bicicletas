@@ -107,11 +107,23 @@ Recomendações para Otimização:
 
 **3. Coleta de Dados Adicionais**: Incluir dados completos de devoluções para estações como 271 e 41, permitindo uma análise mais precisa do ciclo de uso.  
 
+> ### 1. Pergunta Extra: Qual dia da semana se aluga/devolve mais bikes? Qual o tempo médio de aluguel?
 
+![image](https://github.com/user-attachments/assets/89e6d868-d461-446a-9d6a-4b260ed5df4c)
 
+O dia da semana com **maior volume de aluguéis é a Quarta-feira**, registrando **123.360 aluguéis**. Esse padrão reflete uma tendência geral em que os dias úteis, principalmente do meio para o final da semana (Quarta a Sexta-feira), concentram a maior demanda pelo serviço. Em contraste, os fins de semana (Sábado e Domingo) apresentam uma redução significativa no movimento, com **64.770** e **42.659 aluguéis**, respectivamente.
 
+No que se refere às **devoluções**, a **Quarta-feira** também se destaca, com **123.358 devoluções**, valor praticamente idêntico ao de aluguéis do mesmo dia. Essa proximidade entre os números indica uma **consistência operacional**, sugerindo que a maioria das bicicletas alugadas são devolvidas dentro do mesmo ciclo de uso.
 
+Quanto à **duração média dos aluguéis**, o **Domingo** apresenta o **tempo médio mais longo: 19 minutos e 16 segundos**. Esse comportamento se repete nas devoluções, com o Domingo registrando **19 minutos e 31 segundos** como tempo médio mais prolongado. Essa tendência sugere que os usuários tendem a utilizar as bicicletas por períodos mais extensos durante os fins de semana, possivelmente para atividades recreativas ou passeios ocasionais, em contraste com o uso mais rápido e funcional observado em dias úteis.
 
+Recomendações para Otimização:
+
+**1. Otimização de Frota:** Aumentar disponibilidade** de bikes nas **Quartas, Terças e Quintas-feiras** para atender à alta demanda e redistribuir bicicletas para áreas com maior devolução (ex.: hubs centrais) durante os fins de semana.  
+
+**2. Promoções por Tempo de Uso:** Criar pacotes para **aluguéis de longa duração** nos fins de semana (ex.: "Passeio de Domingo") e oferecer descontos para aluguéis rápidos em dias úteis (ex.: "Deslocamento Expresso").
+
+**3. Monitoramento de Consistência:** Investigar a pequena diferença entre aluguéis e devoluções (ex.: 2 bikes não devolvidas na Quarta-feira).
 
 
 
