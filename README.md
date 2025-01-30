@@ -137,7 +137,7 @@ Recomendações para Otimização:
 
 **2. Incentivo a Feriados:** Criar pacotes promocionais para turismo ou passeios familiares (ex.: "Roteiro Cultural de Feriado").
 
-3. **Análise das Categorias Secundárias:** Investigar a natureza dos 12.27% e 4.44% para identificar nichos de mercado (ex.: eventos esportivos, estudantes).  
+**3. Análise das Categorias Secundárias:** Investigar a natureza dos 12.27% e 4.44% para identificar nichos de mercado (ex.: eventos esportivos, estudantes).  
 
 ✅ Fontes
 
