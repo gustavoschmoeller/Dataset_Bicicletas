@@ -125,7 +125,19 @@ Recomendações para Otimização:
 
 **3. Monitoramento de Consistência:** Investigar a pequena diferença entre aluguéis e devoluções (ex.: 2 bikes não devolvidas na Quarta-feira).
 
+> ### 2. Pergunta Extra: Se aluga/devolve mais bikes em feriados ou dias úteis? E qual o percentual?
 
+![image](https://github.com/user-attachments/assets/a3a0f0bb-f187-42cb-897b-4ab490db2cb2)
+
+De acordo com os dados apresentados, os **dias úteis** são responsáveis pela **maior parte dos aluguéis e devoluções de bicicletas**, representando **45,56% do total** (equivalente a 625.334 registros). Em comparação, os **feriados** correspondem a **37,73%** (517.905 registros), seguidos por categorias complementares com percentuais menores, como **12,27%** (168.422) e **4,44%** (60.993).
+
+Recomendações para Otimização:
+
+**1. Otimização em Dias Úteis:** Aumentar a disponibilidade de bicicletas em horários de pico (ex.: 7h-9h e 17h-19h).
+
+**2. Incentivo a Feriados:** Criar pacotes promocionais para turismo ou passeios familiares (ex.: "Roteiro Cultural de Feriado").
+
+3. **Análise das Categorias Secundárias:** Investigar a natureza dos 12.27% e 4.44% para identificar nichos de mercado (ex.: eventos esportivos, estudantes).  
 
 ✅ Fontes
 
