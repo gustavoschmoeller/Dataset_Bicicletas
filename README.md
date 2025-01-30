@@ -41,7 +41,7 @@ A tabela abaixo apresenta as 5 rotas mais frequentes, ordenadas pela quantidade 
 
 • **Rotas 449 - 449 e 208 - 206:** Também apresentam alta demanda, com durações intermediárias (17 e 9 minutos), possivelmente para deslocamentos cotidianos.
 
-• **Rotas 18 - 1 e 211 - 217:** Possuem médias de duração curtas (5 e 3 minutos), sugerindo uso para trajetos rápidos, como conexões com transporte público ou deslocamentos urgentes.
+• **Rotas 18 - 1 e 211 - 217:** Possuem médias de duração curtas (5 e 3 minutos), sugerindo uso para trajetos rápidos, como deslocamentos urgentes.
 
 Recomendações para Otimização:
 
