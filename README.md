@@ -141,8 +141,6 @@ Recomendações para Otimização:
 
 # Fontes
 
-https://github.com/gustavoschmoeller/Dataset_Bicicletas
-
 Os dados utilizados estão hospedados no seguinte repositório:
 
-GitHub Dataset
+https://github.com/gustavoschmoeller/Dataset_Bicicletas
