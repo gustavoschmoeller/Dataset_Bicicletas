@@ -33,11 +33,19 @@ Analisar padrões horários/diários de uso para realocar bikes estrategicamente
 
 > Pergunta 2: Quais são as Top 5 rotas, com base na estação inicial e final, e a média de duração de cada aluguel?
 
-Com base na análise das rotas de aluguéis de bicicletas, identificamos as Top 5 rotas mais frequentes, considerando a estação inicial e final, além da média de duração de cada aluguel. A tabela abaixo apresenta as rotas mais recorrentes, com suas respectivas quantidades de aluguéis (Qtd) e a média de duração de cada aluguel:
+A tabela abaixo apresenta as 5 rotas mais frequentes, ordenadas pela quantidade de aluguéis (Qtd) e suas respectivas médias de duração:
 
 ![image](https://github.com/user-attachments/assets/c5162ffb-2acb-42ad-b368-50d34437c8de)
 
-Essas rotas representam as mais populares dentro do sistema de compartilhamento de bicicletas, com destaque para a **rota 33 - 33**, que possui o maior número de aluguéis e a maior média de duração, indicando um possível padrão de uso mais prolongado nessa rota. A análise dessas rotas permite um melhor entendimento dos hábitos dos usuários e pode auxiliar na otimização do sistema, como a redistribuição de bicicletas e melhorias nas estações mais utilizadas.
+• Rota 33 - 33: Destaca-se pelo maior número de aluguéis (376) e maior duração média (30 minutos e 49 segundos), indicando uso recreativo ou de passeio, já que a estação inicial e final são a mesma.
+• Rotas 449 - 449 e 208 - 206: Também apresentam alta demanda, com durações intermediárias (17 e 9 minutos), possivelmente para deslocamentos cotidianos.
+• Rotas 18 - 1 e 211 - 217: Possuem médias de duração curtas (5 e 3 minutos), sugerindo uso para trajetos rápidos, como conexões com transporte público ou deslocamentos urgentes.
+
+Recomendações para Otimização:
+
+• Redistribuição de bicicletas: Priorizar estações como 33 e 449, que apresentam alta demanda, para evitar falta de bicicletas ou vagas.
+• Expansão de capacidade: Aumentar o número de bicicletas e vagas nas estações 33, 18 e 211, que são pontos críticos de uso.
+• Incentivos para rotas menos utilizadas: Criar promoções ou descontos para rotas com menor demanda, equilibrando a distribuição de usuários.
 
 > Pergunta 3: Quem aluga mais bikes, homens ou mulheres? Qual o tempo médio de aluguel de bikes?
 
