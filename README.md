@@ -14,7 +14,7 @@ Embora o Python já seja eficiente para análise de dados, utilizei bibliotecas 
 
 # Conclusão
 
-> ## Pergunta 1: Quais são as Top 5 estações com maior número de aluguel de bikes?
+> ### Pergunta 1: Quais são as Top 5 estações com maior número de aluguel de bikes?
 
 ![image](https://github.com/user-attachments/assets/dcf2916a-b7bf-44e9-b8a9-db77d2541ee6)
 
@@ -35,7 +35,7 @@ Priorizar a inspeção e manutenção frequente de bikes e infraestrutura nessas
 **3. Otimização de Distribuição:**
 Analisar padrões horários/diários de uso para realocar bikes estrategicamente, garantindo disponibilidade em horários e dias de pico.
 
-> Pergunta 2: Quais são as Top 5 rotas, com base na estação inicial e final, e a média de duração de cada aluguel?
+> ### Pergunta 2: Quais são as Top 5 rotas, com base na estação inicial e final, e a média de duração de cada aluguel?
 
 A tabela abaixo apresenta as 5 rotas mais frequentes, ordenadas pela quantidade de aluguéis (Qtd) e suas respectivas médias de duração:
 
@@ -55,7 +55,7 @@ Recomendações para Otimização:
 
 **3. Incentivos** para rotas menos utilizadas: Criar promoções ou descontos para rotas com menor demanda, equilibrando a distribuição de usuários.
 
-> Pergunta 3: Quem aluga mais bikes, homens ou mulheres? Qual o tempo médio de aluguel de bikes?
+> ### Pergunta 3: Quem aluga mais bikes, homens ou mulheres? Qual o tempo médio de aluguel de bikes?
 
 ![image](https://github.com/user-attachments/assets/ac838f75-98be-4dfb-ba51-fc7d833728f8)
 
@@ -71,7 +71,7 @@ Recomendações para Otimização:
 
 **3. Melhoria na Experiência do Usuário:** Disponibilizar bicicletas mais confortáveis para atender a diferentes perfis de usuários.
 
-> Pergunta 4: Qual faixa etária aluga mais bikes? Qual o tempo médio de aluguel de bikes?
+> ### Pergunta 4: Qual faixa etária aluga mais bikes? Qual o tempo médio de aluguel de bikes?
 
 ![image](https://github.com/user-attachments/assets/43cd5467-ee7c-464c-9de3-ee68c17582a1)
 
