@@ -91,7 +91,19 @@ Recomendações para Otimização:
 
 ![image](https://github.com/user-attachments/assets/457113b0-bfc8-47cb-9e26-72d4b7639c5b)
 
+• **Estação 271 (Aluguel):** Aparece no Top 5 de aluguéis (5.265), mas não está listada nas devoluções.
+• **Estação 266 (Devolução):** Líder em devoluções (6.513), mas não está presente nos aluguéis.
+• **Estação 41 (Aluguel):** Não aparece no top 5 de devoluções.
 
+A ausência de estações como 271 e 41 nas devoluções sugere que bicicletas alugadas nessas estações são devolvidas em outras não listadas no Top 5.  
+
+Recomendações  
+
+1. **Análise de Fluxo**: Mapear rotas frequentes entre estações de aluguel sem correspondência direta nas devoluções (ex.: Estação 271 → Estação 266). 
+
+3. **Otimização Operacional**: Priorizar reposição de bicicletas nas estações 1, 27 e 64, que aparecem em ambas as listas e avaliar a viabilidade de expandir a capacidade da Estação 266, já que é o principal destino de devoluções.  
+
+4. **Coleta de Dados Adicionais**: Incluir dados completos de devoluções para estações como 271 e 41, permitindo uma análise mais precisa do ciclo de uso.  
 
 
 
