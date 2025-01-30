@@ -139,7 +139,9 @@ Recomendações para Otimização:
 
 **3. Análise das Categorias Secundárias:** Investigar a natureza dos 12.27% e 4.44% para identificar nichos de mercado (ex.: eventos esportivos, estudantes).  
 
-✅ Fontes
+# Fontes
+
+https://github.com/gustavoschmoeller/Dataset_Bicicletas
 
 Os dados utilizados estão hospedados no seguinte repositório:
 
