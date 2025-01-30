@@ -82,7 +82,9 @@ No entanto, quando se analisa o **tempo médio de aluguel**, a faixa etária de 
 Recomendações para Otimização:
 
 **1. Fortalecer a faixa etária de 30-39 anos:** Criar campanhas de fidelização (ex.: planos mensais com desconto).
+
 **2. Atrair a faixa 20-29 anos:** Criar parcerias com universidades ou eventos juvenis. Descontos para estudantes ou primeiros usuários.
+
 **3. Incentivar a faixa 70+ anos:** Oferecer bicicletas adaptadas (ex.: modelos estáveis, assentos confortáveis).
 
 
