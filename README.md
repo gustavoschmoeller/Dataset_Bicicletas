@@ -87,6 +87,10 @@ Recomendações para Otimização:
 
 **3. Incentivar a faixa 70+ anos:** Oferecer bicicletas adaptadas (ex.: modelos estáveis, assentos confortáveis).
 
+> 5. Quais são as estações com maior número de bikes alugadas/devolvidas?
+
+![image](https://github.com/user-attachments/assets/c373082c-d2c9-4a60-bfdc-d00d1dc1565a) ![image](https://github.com/user-attachments/assets/a2c2644a-df52-4414-be97-ad2cd5817735)
+
 
 
 
