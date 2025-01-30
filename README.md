@@ -89,7 +89,7 @@ Recomendações para Otimização:
 
 > 5. Quais são as estações com maior número de bikes alugadas/devolvidas?
 
-![image](https://github.com/user-attachments/assets/c373082c-d2c9-4a60-bfdc-d00d1dc1565a) ![image](https://github.com/user-attachments/assets/a2c2644a-df52-4414-be97-ad2cd5817735)
+![image](https://github.com/user-attachments/assets/5746e96b-8b4a-4c54-b7d9-a7bd86a46e94) ![image](https://github.com/user-attachments/assets/a2c2644a-df52-4414-be97-ad2cd5817735)
 
 
 
