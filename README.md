@@ -119,7 +119,7 @@ Quanto à **duração média dos aluguéis**, o **Domingo** apresenta o **tempo 
 
 Recomendações para Otimização:
 
-**1. Otimização de Frota:** Aumentar disponibilidade** de bikes nas **Quartas, Terças e Quintas-feiras** para atender à alta demanda e redistribuir bicicletas para áreas com maior devolução (ex.: hubs centrais) durante os fins de semana.  
+**1. Otimização de Frota:** Aumentar disponibilidade de bikes nas **Quartas, Terças e Quintas-feiras** para atender à alta demanda e redistribuir bicicletas para áreas com maior devolução (ex.: hubs centrais) durante os fins de semana.  
 
 **2. Promoções por Tempo de Uso:** Criar pacotes para **aluguéis de longa duração** nos fins de semana (ex.: "Passeio de Domingo") e oferecer descontos para aluguéis rápidos em dias úteis (ex.: "Deslocamento Expresso").
 
